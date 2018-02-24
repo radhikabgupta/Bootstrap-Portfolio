@@ -1,4 +1,4 @@
-# HW-2 - Bootstrap-Portfolio
+# HW-2 : Bootstrap-Portfolio
 
 Bootstrap powered responsive portfolio template.
 
@@ -12,4 +12,4 @@ Bootstrap powered responsive portfolio template.
 - HTML
 
 ### Bootstrap Portfolio Link
-[Bootstrap Portfolio Link] (https://radhikabgupta.github.io/Bootstrap-Portfolio/)
+[Bootstrap Portfolio Link](https://radhikabgupta.github.io/Bootstrap-Portfolio/)
